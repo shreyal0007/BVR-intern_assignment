@@ -1,0 +1,46 @@
+.maindiv2{
+    background-color:black;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    padding-bottom: 5rem;
+}
+.leftdiv2{
+    width: 50%;
+    height: 100%;
+    background-color:black;
+    display: flex;
+    flex-direction: column;
+    align-items:flex-start ;
+    padding-top: 10vh;
+    padding-left: 2rem;
+  
+}
+.rightdiv2{
+    width: 50%;
+    height: 100%;
+    background-color:black;
+    padding-left: 2.4rem;
+    padding-top: 28vh;
+    padding-right: 5rem;
+}
+.redemption{
+    font-size: 7rem;
+    font-weight: 700;
+    color:white;
+    margin-bottom: 0%;
+}
+.text1{
+    font-size: 1.8rem;
+    font-weight: 680;
+    color:white;
+    margin-bottom: 0%;
+    margin-top: 0%;
+}
+.text2{
+    font-size: 1.6rem;
+    font-weight: 680;
+    color:white;
+    margin-bottom: 0%;
+    margin-top: 0%;
+}

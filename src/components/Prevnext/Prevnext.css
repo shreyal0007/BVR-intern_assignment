@@ -1,0 +1,43 @@
+.maindivv{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 3rem;
+    padding-top: 3rem;
+    height: "30vw";
+    background-color: black;
+   
+}
+.previous{
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: white;
+    text-decoration: none;
+    margin-left: 2rem;
+   
+}
+.previous:hover{
+    color: #004d47;
+}
+.next:hover{
+    color: #004d47;
+}
+.all:hover{
+    color: #004d47;
+}
+.next{
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: white;
+    text-decoration: none;
+    margin-right: 2rem;
+    margin-top: 2rem;
+}
+.all{
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: white;
+    margin-top: 2rem;
+    text-decoration: none;
+    
+}

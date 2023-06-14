@@ -1,0 +1,87 @@
+.mainfooterdiv{
+    background-color: black;
+    display: flex;
+    margin-top: 5rem;
+    flex-direction: row;
+}
+.footerdiv1{
+    width: 14%;
+    height: 100%;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-top: 10vh;
+    padding-left: 2rem;
+}
+.footerdiv2{
+    width: 25%;
+    height: 100%;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-top: 10vh;
+    padding-left: 2rem;
+}
+.text6{
+    font-size: 1.8rem;
+    font-weight: 680;
+    color:white;
+    margin-bottom: 0%;
+    margin-top: 0%;
+}
+.footerdiv3{
+    width: 12%;
+    height: 100%;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-top: 10vh;
+    padding-left: 2rem;
+}
+.footerdiv4{
+    width: 12%;
+    height: 100%;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-top: 10vh;
+    padding-left: 2rem;
+}
+.footerdiv5{
+    width: 12%;
+    height: 100%;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-top: 10vh;
+    padding-left: 2rem;
+}
+.footerdiv6{
+    width: 12%;
+    height: 100%;
+    background-color:black;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-top: 10vh;
+    padding-left: 2rem;
+}
+.text7{
+    font-size: 1rem;
+    font-weight: 680;
+    color:white;
+    margin-bottom: 1rem;
+    margin-top: 0%;
+}
+.text8{
+    font-size: 1.3rem;
+    font-weight: 680;
+    color:white;
+    margin-bottom: 1rem;
+    margin-top: 0%;
+}
